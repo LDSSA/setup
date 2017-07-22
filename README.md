@@ -20,7 +20,7 @@ experience. In particular, after following this readme, you should:
 ## Prerequisites
 
 Please note that these are conservative estimates. If you
-are not 100% on than any of these (except for the last), you should still be okay.
+are not 100% on any of these (except for the last), you should still be okay.
 
 - ~1GB of free memory on your computer
 - Some hundreds of megabytes free on your computer
