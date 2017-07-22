@@ -87,13 +87,17 @@ on your command line, it's recommended to use this.
 
 #### Navigate to the repo on the command line
 
-Assuming you've cloned the repo into your repos on OS X or linux, the command would look something like
+Assuming you've cloned the repo into your `repos` directory the command would look something like
 
-- `cd ~/repos/data-science-101`
+```
+cd ~/repos/setup
+```
 
 #### Start the docker image and jupyter notebook
 
-  - `bash run-jupyter-notebook.sh`
+```
+bash run-jupyter-notebook.sh
+```
   
 Note that the first time you run this, it will take a LONG time because it has to download
 basically an entire operating system.
