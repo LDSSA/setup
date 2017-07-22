@@ -40,10 +40,7 @@ Follow each of the links to download and install.
 
 - [git](https://git-scm.com/)
   - If you're on Windows or OS X and don't know what git is, [GitHub Desktop](https://desktop.github.com/) is probably easiest.
-- [docker](https://docs.docker.com/engine/installation/)
-  - [OSX](https://store.docker.com/editions/community/docker-ce-desktop-mac)
-  - [Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows)
-  - [Browse here](https://www.docker.com/community-edition#/download) if you use another platform
+- [anaconda](https://www.continuum.io/downloads#windows)
 
 
 ### Step 2 - Clone an LDSSA repo
@@ -112,10 +109,7 @@ to make sure that you don't get any errors.
 
 ### Final notes
 
-- You don't need to have docker running all the time. Feel free to shut it down
-  when you aren't using your notebooks.
-- If you have troubles or errors with running your notebook, check the
-  terminal where you started it from to see if there are any hints.
-- If something doesn't work, always remember to give it the ol'
-  turn it off and turn it on trick.
+#### On git usage
 
+- If you are trying to sync a notebook and you get a conflicts error,
+  navigate to the directory and execute `git stash` before you sync again.
