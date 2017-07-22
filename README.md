@@ -18,18 +18,17 @@ experience. In particular, after following this readme, you should:
 Please note that these are conservative estimates. If you
 are not 100% on than any of these, you should still be okay.
 
-- ~1GB of free memory on your computer.
+- ~1GB of free memory on your computer
 - Some hundreds of megabytes free on your computer
 - 64-bit processor
-- The ability to read a README and follow the instructions in it.
+- The ability to read a README and follow the instructions in it
 
 ## Setup
 
-#### Optional but strongly suggested
+### GitHub account
 
-[Sign up](https://github.com/join) for a GitHub account if you don't already have one. Really, it's quite useful.
-
-Note: if looking for a docker smaller footprint jump to the end.
+[Sign up](https://github.com/join) for a GitHub account if you don't already have one.
+Really, it's quite useful.
 
 ### Step 1 - Install dependencies
 
@@ -38,6 +37,9 @@ Follow each of the links to download and install.
 - [git](https://git-scm.com/)
   - If you're on Windows or OS X and don't know what git is, [GitHub Desktop](https://desktop.github.com/) is probably easiest.
 - [docker](https://docs.docker.com/engine/installation/)
+  - [OSX](https://store.docker.com/editions/community/docker-ce-desktop-mac)
+  - [Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows)
+  - [Browse here](https://www.docker.com/community-edition#/download) if you use another platform
 
 
 ### Step 2 - Clone an LDSSA repo
