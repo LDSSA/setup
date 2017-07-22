@@ -6,8 +6,7 @@ Once you have completed the setup, mark yourself as such on [this spreadsheet](h
 
 This repository is the one that you will use to make sure you can execute
 all of the critical tasks required to make the most of your learning
-experience at the Academy. In particular, after following this readme,
-you should:
+experience. In particular, after following this readme, you should:
 
 1. Have a GitHub acount
 1. Be able to clone a git repository
