@@ -81,7 +81,7 @@ Assuming you've cloned the repo into your `repos` directory the command would lo
 #### Make sure that jupyter notebook is running
 
 In the freshly opened notebook, navigate to the root of this repository and open and run
-the notebook. If you get a couple of pretty graphs, you
+the `Verify great success.ipynb` notebook. If you get a couple of pretty graphs, you
 are all good to go!
 
 ### Final notes
