@@ -80,11 +80,17 @@ Assuming you've cloned the repo into your `repos` directory the command would lo
 
 #### Make sure that jupyter notebook is running
 
-Navigate to the root of this repository and open and run
+In the freshly opened notebook, navigate to the root of this repository and open and run
 the notebook. If you get a couple of pretty graphs, you
 are all good to go!
 
 ### Final notes
+
+#### Before the day
+
+On the thursday before the academy, we will be asking you to clone another repository.
+With the new repo, you will do everything the same as in step 4 but nagivate to a
+different repository.
 
 #### On git usage
 
