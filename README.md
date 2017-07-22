@@ -3,7 +3,9 @@
 Once you have completed the setup, mark yourself as such on [this spreadsheet](https://docs.google.com/spreadsheets/d/1SYn38h_DNzdyrZsDH4y50U32eDMdoi00cNDdn2MHAsE/edit?usp=sharing)
 
 If you know what you're doing in terms of python, there's a r`equirements.txt` that you can
-use as you would like. If that's the case the only thing you really need to do is make sure
+use as you would like. Alternatively if you like Docker, there's [install instructions](https://github.com/LDSSA/setup/wiki/Alternate-install-methods)
+for it in the wiki.
+If that's the case the only thing you really need to do is make sure
 you can run the `Verify great success.ipynb` notebook in this repo and you are good.
 
 ## How to use this repo
