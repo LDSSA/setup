@@ -68,44 +68,21 @@ Take a note of the filepath on which you cloned the repo!
   
 ### Step 3 - Start your environment
 
-#### Make sure that docker is running!
+Open up anaconda and launch the jupyter notebook
 
-Before you start your environment, you must make sure that docker
-is running. Otherwise when you try to run it, you will get an error
-that say something about not being able to find the docker daemon.
-
-#### Navigate on the command line to the root of the repo
-
-##### Command line on windows
-
-If you installed GitHub Desktop, it comes with a program called "git bash" that
-you should be able to find in your applications. Any time you must do something
-on your command line, it's recommended to use this.
+![launch jupyter notebook](https://i.imgur.com/SFeVsT6.png)
 
 #### Navigate to the repo on the command line
 
 Assuming you've cloned the repo into your `repos` directory the command would look something like
 
-```
-cd ~/repos/setup
-```
-
-#### Start the docker image and jupyter notebook
-
-```
-bash run-jupyter-notebook.sh
-```
-  
-Note that the first time you run this, it will take a LONG time because it has to download
-basically an entire operating system.
-  
 ### Step 4
 
 #### Make sure that jupyter notebook is running
 
-Open [http://localhost:8888](http://localhost:8888) in your browser and you should see
-an `examples` directory. Navigate into it and run the example notebook
-to make sure that you don't get any errors.
+Navigate to the root of this repository and open and run
+the notebook. If you get a couple of pretty graphs, you
+are all good to go!
 
 ### Final notes
 
