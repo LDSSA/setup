@@ -79,8 +79,8 @@ Open up anaconda and launch the jupyter notebook
 #### Make sure that jupyter notebook is running
 
 In the freshly opened notebook, navigate to the root of this repository and open and run
-the `Verify great success.ipynb` notebook. If you get a couple of pretty graphs, you
-are all good to go!
+the `Verify great success.ipynb` notebook (you run cells with shift+enter).
+If you get a couple of pretty graphs, you are all good to go!
 
 ### Final notes
 
