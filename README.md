@@ -2,9 +2,9 @@
 
 Once you have completed the setup, mark yourself as such on [this spreadsheet](https://docs.google.com/spreadsheets/d/1SYn38h_DNzdyrZsDH4y50U32eDMdoi00cNDdn2MHAsE/edit?usp=sharing)
 
-If you know what you're doing in terms of python, there's a requirements.txt that you can
+If you know what you're doing in terms of python, there's a r`equirements.txt` that you can
 use as you would like. If that's the case the only thing you really need to do is make sure
-you can run the example notebook in this repo and you are good.
+you can run the `Verify great success.ipynb` notebook in this repo and you are good.
 
 ## How to use this repo
 
@@ -20,7 +20,7 @@ experience. In particular, after following this readme, you should:
 ## Prerequisites
 
 Please note that these are conservative estimates. If you
-are not 100% on than any of these, you should still be okay.
+are not 100% on than any of these (except for the last), you should still be okay.
 
 - ~1GB of free memory on your computer
 - Some hundreds of megabytes free on your computer
@@ -40,7 +40,7 @@ Follow each of the links to download and install.
 
 - [git](https://git-scm.com/)
   - If you're on Windows or OS X and don't know what git is, [GitHub Desktop](https://desktop.github.com/) is probably easiest.
-- [anaconda](https://www.continuum.io/downloads#windows)
+- [anaconda](https://www.continuum.io/downloads)
 
 
 ### Step 2 - Clone an LDSSA repo
@@ -71,10 +71,6 @@ Take a note of the filepath on which you cloned the repo!
 Open up anaconda and launch the jupyter notebook
 
 ![launch jupyter notebook](https://i.imgur.com/SFeVsT6.png)
-
-#### Navigate to the repo on the command line
-
-Assuming you've cloned the repo into your `repos` directory the command would look something like
 
 ### Step 4
 
