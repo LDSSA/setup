@@ -1,8 +1,12 @@
-# IMPORTANT
+## IMPORTANT
 
 Once you have completed the setup, mark yourself as such on [this spreadsheet](https://docs.google.com/spreadsheets/d/1SYn38h_DNzdyrZsDH4y50U32eDMdoi00cNDdn2MHAsE/edit?usp=sharing)
 
-# How to use this repo
+If you know what you're doing in terms of python, there's a requirements.txt that you can
+use as you would like. If that's the case the only thing you really need to do is make sure
+you can run the example notebook in this repo and you are good.
+
+## How to use this repo
 
 This repository is the one that you will use to make sure you can execute
 all of the critical tasks required to make the most of your learning
