@@ -1,11 +1,10 @@
 ## IMPORTANT
 
-Once you have completed the setup, mark yourself as such on [this spreadsheet](https://docs.google.com/spreadsheets/d/1SYn38h_DNzdyrZsDH4y50U32eDMdoi00cNDdn2MHAsE/edit?usp=sharing)
+Once you have completed the setup, mark yourself as such on [this spreadsheet](https://docs.google.com/spreadsheets/d/1SYn38h_DNzdyrZsDH4y50U32eDMdoi00cNDdn2MHAsE/edit?usp=sharing).
 
 If you know what you're doing in terms of python, there's a `requirements.txt` that you can
 use as you would like. Alternatively if you like Docker, there's [install instructions](https://github.com/LDSSA/setup/wiki/Alternate-install-methods)
-for it in the wiki.
-If that's the case the only thing you really need to do is make sure
+for it in the wiki. If that's the case the only thing you really need to do is make sure
 you can run the `Verify great success.ipynb` notebook in this repo and you are good.
 
 ## How to use this repo
@@ -16,7 +15,7 @@ experience. In particular, after following this readme, you should:
 
 1. Have a GitHub acount
 1. Be able to clone a git repository
-1. Be able to start a jupyter notebook
+1. Be able to start a jupyter notebook with python 3
 1. Run code within a jupyter notebook to (among other things) render some plots.
 
 ## Prerequisites
@@ -44,7 +43,6 @@ Follow each of the links to download and install.
   - If you're on Windows or OS X and don't know what git is, [GitHub Desktop](https://desktop.github.com/) is probably easiest.
 - [anaconda](https://www.continuum.io/downloads)
 
-
 ### Step 2 - Clone an LDSSA repo
 
 In the future, you will clone other repositories so take note of these
@@ -67,6 +65,9 @@ git clone git@github.com:LDSSA/setup.git
 ```
   
 Take a note of the filepath on which you cloned the repo!
+
+Note that if you choose this option, you will need to have your
+[ssh keys set up](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/).
   
 ### Step 3 - Start your environment
 
