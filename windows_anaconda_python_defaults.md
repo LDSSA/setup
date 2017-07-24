@@ -1,6 +1,6 @@
 ## Configure Anaconda3's Python distribution as Windows10 defaults
 
-## DISCLAIMER
+## Disclaimer
 Lisbon Data Science Academy conveys this information as a participant contribution. For the course itself the only officially supported way of writing code will be in Jupyter Notebooks and/or Anaconda3 ecosystem's. The reason for this is just to keep things standard in order to make it easier for instructors to support the students that have less experience. Do feel free to ask any questions community will generally do its best for helping.
 
 ## Target audience
@@ -38,9 +38,11 @@ iii) Now configure Anaconda3's Python in windows as default:
 
 iv) In sublime text you have to uninstall any Package that compiles Python with the name "Python" build, which is the name that is used by default system.
 
-## RESULTS
+## Results, reeeeesuuults :)
 ![cmd prompt is working](cmdpr.png)
 
 ![sublime text is working](sublime.png)
 
 <b>Done Enjoy!</b>
+
+Franc
