@@ -35,7 +35,7 @@ iii) Now configure Anaconda3's Python in windows as default:
 
 iv) In sublime text you have to uninstall any Package that compiles Python with the name "Python" build, which is the name that is used by default system.
 
-##RESULTS
-<blockquote class="imgur-embed-pub" lang="en" data-id="0pCkIiq"><a href="//imgur.com/0pCkIiq"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+## RESULTS
+<a href="//imgur.com/0pCkIiq"></a>
 
 <b>Done Enjoy!</b>
