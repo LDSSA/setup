@@ -36,6 +36,6 @@ iii) Now configure Anaconda3's Python in windows as default:
 iv) In sublime text you have to uninstall any Package that compiles Python with the name "Python" build, which is the name that is used by default system.
 
 ## RESULTS
-(http://imgur.com/0pCkIiq)
+![cmd prompt is working](http://imgur.com/0pCkIiq)
 
 <b>Done Enjoy!</b>
