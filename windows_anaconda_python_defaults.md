@@ -1,4 +1,4 @@
-## Configure Anaconda3's Python distribution as Windows defaults
+## Configure Anaconda3's Python distribution as Windows10 defaults
 
 ## Target audience
 This tutorial is for you if, like me:
