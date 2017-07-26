@@ -40,8 +40,10 @@ Really, it's quite useful.
 Follow each of the links to download and install.
 
 - [git](https://git-scm.com/)
-  - If you're on Windows or OS X and don't know what git is, [GitHub Desktop](https://desktop.github.com/) is probably easiest.
+    - If you're on Windows or OS X and don't know what git is, [GitHub Desktop](https://desktop.github.com/) is probably easiest.
 - [anaconda](https://www.continuum.io/downloads)
+    - If you are on windows:
+      - Make sure that there are no non-english characters in your username or on the path and that you have qt installed. [Here is a reference](https://github.com/ContinuumIO/anaconda-issues/issues/1270) on how to address these issues.
 
 ### Step 2 - Clone an LDSSA repo
 
@@ -58,7 +60,17 @@ select "clone using github desktop" as shown below:
 
 ![clone](http://i.imgur.com/i8pZmhD.png)
 
-#### From the command line
+#### From the command line the easy way
+
+```
+git clone https://github.com/LDSSA/setup.git
+```
+
+#### From the command line the ssh way
+
+Make sure that you have your [ssh keys set up](https://help.github.com/articles/connecting-to-github-with-ssh/).
+Once they are you use *almost* the same clone command as above in 
+"the easy way"
 
 ```
 git clone git@github.com:LDSSA/setup.git
