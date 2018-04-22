@@ -83,7 +83,15 @@ Note that if you choose this option, you will need to have your
   
 ### Step 3 - Start your environment
 
-Open up anaconda and launch the jupyter notebook
+Open up anaconda and create a new python 3.5 environment with
+1. Click on "environments"
+1. Click on "Create"
+1. Select 3.5 and give it a name
+1. Click create
+
+![Create a new environment](https://i.imgur.com/9YdLYTv.png)
+
+Launch the jupyter notebook
 
 ![launch jupyter notebook](https://i.imgur.com/SFeVsT6.png)
 
