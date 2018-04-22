@@ -95,9 +95,16 @@ Launch the jupyter notebook
 
 ![launch jupyter notebook](https://i.imgur.com/SFeVsT6.png)
 
-### Step 4
+**NOTE** that every time you start anaconda navigator, you will need to choose the ldsa environment! If you forget to do
+this, you will be missing some key things!
 
-#### Make sure that jupyter notebook is running
+### Step 4 - Start your notebook
+
+Click on home and then run (install if needed) the jupyter notebook
+
+![Launch the notebook](https://i.imgur.com/HSkFRpy.png)
+
+### Step 5 - Verify Success
 
 In the freshly opened notebook, navigate to the root of this repository and open and run
 the `Verify great success.ipynb` notebook (you run cells by clicking on them and then pressing shift+enter).
