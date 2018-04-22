@@ -89,7 +89,7 @@ Open up anaconda and create a new python 3.5 environment with
 1. Select 3.5 and give it a name "ldsa"
 1. Click create
 
-![Create a new environment](https://i.imgur.com/9YdLYTv.png)
+![Create a new environment](https://i.imgur.com/9YdLYTv.png | width=100)
 
 
 **NOTE** that every time you start anaconda navigator, you will need to choose the ldsa environment! If you forget to do
@@ -103,7 +103,7 @@ Open a terminal with
 1. Click on the green arrow next to the ldsa environment name
 1. Click open terminal
 
-![open terminal](https://i.imgur.com/R60Eavh.png)
+![open terminal](https://i.imgur.com/R60Eavh.png | width=100)
 
 Now copy-paste the following line into the terminal
 
@@ -116,7 +116,7 @@ conda install Cython==0.28.2 jupyter==1.0.0 matplotlib==2.2.2 mlxtend==0.11.0 nu
 
 Click on home and then run (install if needed) the jupyter notebook
 
-![Launch the notebook](https://i.imgur.com/HSkFRpy.png)
+![Launch the notebook](https://i.imgur.com/HSkFRpy.png | width=100)
 
 In the freshly opened notebook, navigate to the root of this repository and open and run
 the `Verify great success.ipynb` notebook (you run cells by clicking on them and then pressing shift+enter).
