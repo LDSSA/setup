@@ -110,6 +110,7 @@ Now copy-paste the following line into the terminal
 ```
 conda config --add channels conda-forge
 conda install Cython==0.28.2 jupyter==1.0.0 matplotlib==2.2.2 mlxtend==0.11.0 numpy==1.14.2 pandas==0.22.0 scikit-learn==0.19.1 seaborn==0.8.1
+pip install plotchecker==0.2.0
 ```
 
 ### Step 5 - Verify Success
