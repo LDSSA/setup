@@ -86,25 +86,37 @@ Note that if you choose this option, you will need to have your
 Open up anaconda and create a new python 3.5 environment with
 1. Click on "environments"
 1. Click on "Create"
-1. Select 3.5 and give it a name
+1. Select 3.5 and give it a name "ldsa"
 1. Click create
 
 ![Create a new environment](https://i.imgur.com/9YdLYTv.png)
 
-Launch the jupyter notebook
-
-![launch jupyter notebook](https://i.imgur.com/SFeVsT6.png)
 
 **NOTE** that every time you start anaconda navigator, you will need to choose the ldsa environment! If you forget to do
 this, you will be missing some key things!
 
-### Step 4 - Start your notebook
+### Step 4 - Install extra dependencies
+
+Open a terminal with 
+
+1. Click on Environments
+1. Click on the green arrow next to the ldsa environment name
+1. Click open terminal
+
+![open terminal](https://i.imgur.com/R60Eavh.png)
+
+Now copy-paste the following line into the terminal
+
+```
+conda config --add channels conda-forge
+conda install Cython==0.28.2 jupyter==1.0.0 matplotlib==2.2.2 mlxtend==0.11.0 numpy==1.14.2 pandas==0.22.0 plotchecker==0.2.0 scikit-learn==0.19.1 seaborn==0.8.1
+```
+
+### Step 5 - Verify Success
 
 Click on home and then run (install if needed) the jupyter notebook
 
 ![Launch the notebook](https://i.imgur.com/HSkFRpy.png)
-
-### Step 5 - Verify Success
 
 In the freshly opened notebook, navigate to the root of this repository and open and run
 the `Verify great success.ipynb` notebook (you run cells by clicking on them and then pressing shift+enter).
