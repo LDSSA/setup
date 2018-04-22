@@ -105,13 +105,15 @@ Open a terminal with
 
 <img src="https://i.imgur.com/R60Eavh.png" alt="alt text" width="500">
 
-Now copy-paste the following line into the terminal
+Now copy-paste the following lines into the terminal
 
 ```
 conda config --add channels conda-forge
 conda install Cython==0.28.2 jupyter==1.0.0 matplotlib==2.2.2 mlxtend==0.11.0 numpy==1.14.2 pandas==0.22.0 scikit-learn==0.19.1 seaborn==0.8.1
 pip install plotchecker==0.2.0
 ```
+
+It will ask you for confirmation, just accept by typing "y" and then hitting the enter key.
 
 ### Step 5 - Verify Success
 
